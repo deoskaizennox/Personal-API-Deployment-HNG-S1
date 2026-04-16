@@ -1,6 +1,6 @@
-# HNG DevOps Stage 1: Personal API
+# Personal API Deployment
 
-A minimal REST API built with Flask, deployed using ngrok for public access.
+A minimal REST API built with Flask, deployed using ngrok for public access, completed as a task for HNG DevOps Stage 1.
 
 ## 📋 Project Overview
 
