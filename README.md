@@ -69,7 +69,7 @@ curl https://giveaway-luminance-tutor.ngrok-free.dev/health
 curl https://giveaway-luminance-tutor.ngrok-free.dev/me
 ```
 🛠️  *Technologies Used*
-_Python 3_ - Programming language
-_Flask_ - Web framework
-_ngrok_ - Tunneling tool for public access
+1. _Python 3_ - Programming language
+2. _Flask_ - Web framework
+3. _ngrok_ - Tunneling tool for public access
 
